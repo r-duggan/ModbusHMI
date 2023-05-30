@@ -1,6 +1,8 @@
 # ModbusHMI
 For use with P1AM-100 to C-More HMI
 
+## Example
+
 ``` c++
 #include <P1AM.h>
 #include <Ethernet.h>
